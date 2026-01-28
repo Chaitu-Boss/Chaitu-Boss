@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chaitanya Raut aka @Chaitu-Boss
-- 👀 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Currently exploring Large Language Models
+- 👀 Interested in accessible, scalable, and performant full-stack applications
 - 📫 Reach me on chaituraut13@gmail.com
 - 😄 Avid interest in Cryptocurrencies and Blockchain
 - ⚡ Fun fact: I'm the boss
